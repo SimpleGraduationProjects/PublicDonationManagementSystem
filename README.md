@@ -3,9 +3,7 @@
 <p>群: 123300273(大佬群 2TB学习资料)(获取sql文件,入费群5元)</p>
 <p>QQ: 1095737364</p>
 
-<p>
-    <h1 align="center">公益捐赠管理系统</h1>
-</p>
+<p><h1 align="center">公益捐赠管理系统</h1></p>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
